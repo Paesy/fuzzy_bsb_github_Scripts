@@ -20,7 +20,7 @@ fuzzy-katg-md/
 │   ├── 02_fuzzy_discovery.py
 │   ├── 03_fuzzy_states.py
 │   ├── 04_fuzzy_dynamics.py
-│   └── 05_frames_representativos.py
+│   └── 05_representative_frames.py
 ```
 
 Raw MD trajectories and large simulation files are intentionally not included in this repository. Generated descriptor files, datasets, figures, and analysis outputs are also ignored by Git by default.
