@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "Fuzzy Conformational States in Molecular Dynamics Simulations of Mycobacterium tuberculosis KatG"
+type: software
+authors:
+  - family-names: Paes
+    given-names: Yago Mendes
+  - family-names: Osman
+    given-names: Abdirasak Mohamed
+  - family-names: Werhli
+    given-names: Adriano Velasque
+  - family-names: Machado
+    given-names: Karina dos Santos
+version: "1.0.0"
+year: 2026
+license: MIT
